@@ -125,7 +125,7 @@ export default function Home() {
                   sx={{
                     mx: "auto",
                     mb: 5,
-                    fontSize: { xs: "11vw", sm: "5vw", md: "3vw" },
+                    fontSize: { xs: "9vw", sm: "5vw", md: "3vw" },
                     fontWeight: "bold",
                     maxWidth: { md: "60%" },
                   }}
@@ -186,7 +186,7 @@ export default function Home() {
                   sx={{
                     mx: "auto",
                     mb: 5,
-                    fontSize: { xs: "11vw", sm: "4vw", md: "3vw" },
+                    fontSize: { xs: "9vw", sm: "4vw", md: "3vw" },
                     fontWeight: "bold",
                     maxWidth: { md: "80%" },
                   }}
@@ -242,7 +242,7 @@ export default function Home() {
                 src="/image-photography.jpg"
                 alt=""
                 sx={{ maxWidth: "100%"}}
-              />    
+              />   
                       
             </Grid>
           </Grid>
