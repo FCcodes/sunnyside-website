@@ -500,17 +500,17 @@ export default function Home() {
                 justifyContent="center"
               >
                 <Grid item>
-                  <Link href="#">
+                  <Link passHref href="#">
                     <Box component="a">About</Box>
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link href="#">
+                  <Link passHref href="#">
                     <Box component="a">Services</Box>
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link href="#">
+                  <Link passHreff href="#">
                     <Box component="a">Products</Box>
                   </Link>
                 </Grid>
@@ -526,17 +526,17 @@ export default function Home() {
                 justifyContent="center"
               >
                 <Grid item>
-                  <Link href="#">
+                  <Link passHref href="#">
                     <Box component="a">Instagram</Box>
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link href="#">
+                  <Link passHref href="#">
                     <Box component="a">Twitter</Box>
                   </Link>
                 </Grid>
                 <Grid item>
-                  <Link href="#">
+                  <Link passHref href="#">
                     <Box component="a">Facebook</Box>
                   </Link>
                 </Grid>
